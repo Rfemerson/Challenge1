@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background-color: #faa7c9;
+    color: white;
+}
+
+.container {
+    width: 30%;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    transition: all 0.2s;
+}
+
+h1:hover {
+    color: black;
+}
+
+header h2 {
+    font-size: 1em;
+    color: white;
+    font-weight: 100;
+}
+
+
+
+main p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: left;
+    font-weight: bold;
+}
+
+img {
+    width: 100px;
+}
+
+main h2 {
+    width: 55%;
+    margin: 10px auto;
+    text-align: center;
+    font-weight: 100;
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
